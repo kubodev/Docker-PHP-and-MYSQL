@@ -2,7 +2,7 @@
 
 Is a containter php + mysql
 
-config:
+##config:
 
   MYSQL_ROOT_PASSWORD: cursophp
   MYSQL_DATABASE: cursophp
@@ -13,3 +13,8 @@ config:
   localhost: web
   
   3306: MySQL
+
+##Estructure of Site
+
+  src/
+    index.php
